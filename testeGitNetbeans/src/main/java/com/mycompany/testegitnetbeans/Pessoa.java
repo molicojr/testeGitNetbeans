@@ -22,6 +22,10 @@ public class Pessoa {
         this.idade += 1;
     }
     
+    public void mudarNome(String novoNome){
+        this.nome = novoNome;
+    }
+    
     
     
     
